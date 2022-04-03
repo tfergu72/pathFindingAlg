@@ -1,4 +1,4 @@
-# A-Path-Finding-Algorithm
+# A* Path Finding Algorithm
 Path finding visualization
 Written in python, uses a* search algorithm.
 Builds a path finding visualization tool to visualize the a* algorithm as it runs.
